@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "categories": [
+    "animal",
+    "food",
+    "object",
+    "nature",
+    "people",
+    "work",
+    "tech",
+    "random"
+  ],
+  "themes": [
+    "confidence",
+    "growth",
+    "resilience",
+    "deep",
+    "gentle",
+    "fun"
+  ],
+  "actions": [
+    "caption",
+    "info",
+    "list"
+  ],
+  "syntax_examples": [
+    "/oneline",
+    "/oneline snail",
+    "/oneline --animal",
+    "/oneline mooncake --food",
+    "/oneline coffee --work",
+    "/oneline bamboo --resilience",
+    "/oneline --object --confidence",
+    "/oneline --random --deep"
+  ],
+  "alias": [
+    "/online"
+  ]
+}
