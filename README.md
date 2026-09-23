@@ -30,9 +30,9 @@ The first reference implementation is **Sandline** — a visual language combini
 
 ### More Sandline examples
 
-| Singapore study | Parliament House study |
+| Parliament House — Detailed Study | Marina Bay & Merlion — Line Study |
 | --- | --- |
-| ![Singapore Sandline artwork](assets/file_00000000543c820bba2f9b6e27dae411.png) | ![Parliament House Sandline artwork](assets/file_0000000039f8820bb9b12c8d24036fd5.png) |
+| ![Parliament House detailed Sandline artwork](assets/file_00000000543c820bba2f9b6e27dae411.png) | ![Marina Bay and Merlion Sandline artwork](assets/file_0000000039f8820bb9b12c8d24036fd5.png) |
 
 ## Quick Start
 
