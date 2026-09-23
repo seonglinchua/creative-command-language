@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CCL Registry",
+  "type": "object",
+  "required": [
+    "command",
+    "items"
+  ],
+  "properties": {
+    "command": {
+      "type": "string"
+    },
+    "current_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    }
+  }
+}
