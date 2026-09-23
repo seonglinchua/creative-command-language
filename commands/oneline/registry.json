@@ -1,0 +1,75 @@
+{
+  "series": "One Line, One Thought",
+  "series_code": "OLT",
+  "version": "1.0.0",
+  "next_id": 8,
+  "entries": [
+    {
+      "id": 1,
+      "code": "OLT-001",
+      "subject": "Rat",
+      "theme": "Progress",
+      "chinese": "小步前進",
+      "english": "Keep moving forward",
+      "status": "created"
+    },
+    {
+      "id": 2,
+      "code": "OLT-002",
+      "subject": "Cockroach",
+      "theme": "Adaptability",
+      "chinese": "適應力就是超能力",
+      "english": "Adaptability is a superpower",
+      "status": "created"
+    },
+    {
+      "id": 3,
+      "code": "OLT-003",
+      "subject": "Turtle",
+      "theme": "Patience",
+      "chinese": "慢一點，也是在前進",
+      "english": "Going slowly is still moving forward",
+      "status": "created"
+    },
+    {
+      "id": 4,
+      "code": "OLT-004",
+      "subject": "Ant",
+      "theme": "Compounding effort",
+      "chinese": "日積月累",
+      "english": "Small efforts compound",
+      "status": "created"
+    },
+    {
+      "id": 5,
+      "code": "OLT-005",
+      "subject": "Hen",
+      "theme": "Practical action",
+      "chinese": "踏實前行",
+      "english": "Steady steps create real results",
+      "status": "created"
+    },
+    {
+      "id": 6,
+      "code": "OLT-006",
+      "subject": "Mooncake",
+      "theme": "Sharing",
+      "chinese": "團圓有味",
+      "english": "Sharing turns ordinary days into something special",
+      "status": "created"
+    },
+    {
+      "id": 7,
+      "code": "OLT-007",
+      "subject": "Snail",
+      "theme": "Own pace / self-trust",
+      "chinese": "按自己的步伐前進",
+      "english": "Move at your own pace",
+      "status": "created"
+    }
+  ],
+  "notes": [
+    "The logical registry is authoritative when generated artwork contains an accidental printed sequence number.",
+    "OLT-006 is Mooncake. OLT-007 is Snail."
+  ]
+}
