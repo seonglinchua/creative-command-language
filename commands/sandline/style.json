@@ -1,0 +1,26 @@
+{
+  "name": "sandline",
+  "version": "1.0.0",
+  "palette": [
+    "off-white paper",
+    "charcoal/black line",
+    "natural warm sand"
+  ],
+  "accent": "minimal, contextual",
+  "principles": [
+    "sand is a primary medium",
+    "generous negative space",
+    "selective incomplete linework",
+    "physically believable grains",
+    "restrained conventional painting"
+  ],
+  "sand_attributes": [
+    "grain_size",
+    "density",
+    "direction",
+    "accumulation",
+    "dispersion",
+    "dissolve"
+  ],
+  "motto": "The line describes what we see. The sand expresses what we feel."
+}
