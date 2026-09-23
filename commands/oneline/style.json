@@ -1,0 +1,39 @@
+{
+  "name": "One Line, One Thought",
+  "version": "1.0.0",
+  "chinese_name": "一線一念",
+  "tagline": "Small Characters. Big Insights.",
+  "background": "warm white or lightly textured",
+  "linework": "dominant black/charcoal continuous or hand-drawn line",
+  "subject": "cute, simplified, expressive",
+  "accent_colors": {
+    "max": 3,
+    "rule": "restrained"
+  },
+  "negative_space": "generous",
+  "chinese_calligraphy": "major visual anchor",
+  "english_translation": "always included",
+  "seal": "small red Chinese seal may be used as recurring signature",
+  "environment": "minimal elements that support the metaphor",
+  "tone": [
+    "warm",
+    "thoughtful",
+    "optimistic",
+    "slightly playful",
+    "accessible"
+  ],
+  "avoid": [
+    "busy backgrounds",
+    "excessive colors",
+    "preachy copy",
+    "generic motivational clutter"
+  ],
+  "composition": [
+    "series identity",
+    "hero subject",
+    "Chinese thought",
+    "English interpretation",
+    "optional supporting thought",
+    "minimal signature"
+  ]
+}
