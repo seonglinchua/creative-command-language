@@ -1,0 +1,14 @@
+{
+  "command": "/sandline",
+  "vocabulary": {
+    "grain_size": "Perceived scale of individual sand particles.",
+    "density": "Concentration of grains in an area.",
+    "direction": "Visual flow or movement of grains.",
+    "accumulation": "Where grains gather into mass or shadow.",
+    "dispersion": "How grains spread and thin into space.",
+    "dissolve": "Transition from defined form into loose grains.",
+    "negative_space": "Untouched paper used as an active compositional element.",
+    "motion": "Time-based behavior of sand and line.",
+    "interaction": "User-driven behavior such as scroll, cursor wind or touch."
+  }
+}
